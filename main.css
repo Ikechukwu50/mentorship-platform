@@ -1,7 +1,8 @@
 
 
 .header > h1 {
-    font-style: italic;
+    font-style: normal;
+    font-weight: bolder;
     
 }
 
@@ -47,9 +48,6 @@
     display: flex;
 }
 
-.body2{
-    max-width: 760px;
-}
 
 .body h1{
     font-size: 2rem;
@@ -70,4 +68,36 @@
     text-decoration: none;
     font-size: 1rem;
     display: inline-block;
+}
+
+.feature{
+    justify-content: center;
+    display: flex;
+    padding: 60px 45px;
+    background-color: rgb(193, 243, 243);
+}
+
+.register{
+    background: blue;
+    color: aliceblue;
+    border-radius: 8px;
+    padding: 12px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+}
+
+.feature2{
+    width: 550px;
+}
+
+.feature h3{
+    color: rgb(7, 0, 0);
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+down {
+    text-align: center;
+    padding: 20px 0px;
 }
