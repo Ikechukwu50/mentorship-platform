@@ -1,6 +1,8 @@
 .head {
     background-color: rgb(16, 16, 170);
     color: aliceblue;
+    display: flex;
+    justify-content: space-between;
 }
 .nav a{
     color: aliceblue;
