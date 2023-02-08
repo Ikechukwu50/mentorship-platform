@@ -92,3 +92,17 @@ body{
     display: block;
 }
 
+.contact{
+    background: rgb(143, 173, 173);
+    padding: 60px 45px;
+    display: flex;
+    justify-content: center;
+}
+
+.contact2{
+    color: rgb(18, 15, 179);
+    text-decoration: none;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+}
